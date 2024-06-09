@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/profile/lost50U1)
-- Live Site URL: [Add live site URL here](https://lost50u1.github.io/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-links-profile-n2aO4ct-KU)
+- Live Site URL: [Add live site URL here](https://lost50u1.github.io/social-links-profile-main/)
 
 ## My process
 
